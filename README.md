@@ -13,4 +13,4 @@
 🔭 **I’m currently working on**  React, Identity and Access Management and Java REST APIs
 
 # Contact me
-[<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sanskruti-patil/)
+[<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanskruti-patil/)
